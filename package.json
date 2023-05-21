@@ -1,0 +1,25 @@
+{
+  "name": "react.low-level",
+  "version": "1.0.0",
+  "description": "Use React to write beautiful interfaces for low power devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Corey-Maler/react.low-level.git"
+  },
+  "keywords": [
+    "react",
+    "low-level",
+    "arduino",
+    "esp32"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Corey-Maler/react.low-level/issues"
+  },
+  "homepage": "https://github.com/Corey-Maler/react.low-level#readme"
+}
